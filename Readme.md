@@ -1,5 +1,5 @@
 ### Bot Handler Discord-PHP
-    Para práticar meu conhecimento sob a linguagem que novamente ando utilizando em projetos que 
+Para práticar meu conhecimento sob a linguagem que novamente ando utilizando em projetos que 
     utilizam framework Laravel, esta aplicação será útil para colocar minha lógica em prática, eu utilizei
     framework [discord-php](https://discordphp.readme.io/), mesmo não sendo tão bem atualizada atualmente
     será útil para mim saber lidar com os problemas e desáfios que vem pela frente. Este projeto será
