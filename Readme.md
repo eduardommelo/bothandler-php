@@ -14,7 +14,7 @@ Instalar as depedências inseridas no projeto.
 ```
         composer install
 ```
-    Depois iniciar no seu arquivo principal
+Depois iniciar no seu arquivo principal
 ```
         php app.php
 ```
