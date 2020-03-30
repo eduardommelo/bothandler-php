@@ -10,11 +10,11 @@
     - [phpdotenv](https://github.com/vlucas/phpdotenv)
     - [discord-php](https://discordphp.readme.io/)
 ### Como iniciar o projeto
-    Instalar as depedências inseridas no projeto.
-    ```
+Instalar as depedências inseridas no projeto.
+```
         composer install
-    ```
+```
     Depois iniciar no seu arquivo principal
-    ```
+```
         php app.php
-    ```
+```
