@@ -7,8 +7,8 @@ Para práticar meu conhecimento sob a linguagem que novamente ando utilizando em
     desenvolvedores de como é feito um bot em php, é claro que futuramente irei remover de sua
     framework e criar uma própria, mas é tudo questão de tempo.
 ### Frameworkds
-    - [phpdotenv](https://github.com/vlucas/phpdotenv)
-    - [discord-php](https://discordphp.readme.io/)
+- [phpdotenv](https://github.com/vlucas/phpdotenv)
+- [discord-php](https://discordphp.readme.io/)
 ### Como iniciar o projeto
 Instalar as depedências inseridas no projeto.
 ```
