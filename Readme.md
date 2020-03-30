@@ -6,7 +6,7 @@ Para práticar meu conhecimento sob a linguagem que novamente ando utilizando em
     atualizado quando eu irei ter tempo, a proposta deste projeto é dispertar a curiosidade dos
     desenvolvedores de como é feito um bot em php, é claro que futuramente irei remover de sua
     framework e criar uma própria, mas é tudo questão de tempo.
-### Frameworkds
+### Frameworks
 - [phpdotenv](https://github.com/vlucas/phpdotenv)
 - [discord-php](https://discordphp.readme.io/)
 ### Como iniciar o projeto
