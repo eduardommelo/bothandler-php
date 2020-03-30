@@ -1,0 +1,14 @@
+{
+    "name": "edumelo/modmail",
+    "description": "bot desenvolvido para atendimento ao usu\u0000rio",
+    "authors": [
+        {
+            "name": "eduardo melo",
+            "email": "fobbie.gov@gmail.com"
+        }
+    ],
+    "require": {
+        "team-reflex/discord-php": "^4.0",
+        "vlucas/phpdotenv": "^4.1"
+    }
+}
